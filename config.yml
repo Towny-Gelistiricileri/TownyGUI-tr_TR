@@ -1,0 +1,1127 @@
+# 
+#  _______                         _____ _    _ _____  #
+# |__   __|                       / ____| |  | |_   _| #
+#    | | _____      ___ __  _   _| |  __| |  | | | |   #
+#    | |/ _ \ \ /\ / / '_ \| | | | | |_ | |  | | | |   #
+#    | | (_) \ V  V /| | | | |_| | |__| | |__| |_| |_  #
+#    |_|\___/ \_/\_/ |_| |_|\__, |\_____|\____/|_____| #
+#                            __/ |                     #
+#                           |___/                      #
+#                                                      #
+#                    By Stimulation                    #
+TownyGUI:
+  Settings:
+    Enable-Signs: true
+    Check-Updates: true
+    MainMenuCustomItem1Enabled: false
+    MainMenuCustomItem2Enabled: false
+    MainMenuCustomItem3Enabled: false
+    MainMenuCustomItem4Enabled: false
+    MainMenuCustomItem5Enabled: false
+    TownMenuCustomItem1Enabled: false
+    TownMenuCustomItem2Enabled: false
+    TownMenuCustomItem3Enabled: false
+    TownMenuCustomItem4Enabled: false
+    TownMenuCustomItem5Enabled: false
+    TownyMenuCustomItem1Enabled: false
+    TownyMenuCustomItem2Enabled: false
+    TownyMenuCustomItem3Enabled: false
+    TownyMenuCustomItem4Enabled: false
+    TownyMenuCustomItem5Enabled: false
+    PlotMenuCustomItem1Enabled: false
+    PlotMenuCustomItem2Enabled: false
+    PlotMenuCustomItem3Enabled: false
+    PlotMenuCustomItem4Enabled: false
+    PlotMenuCustomItem5Enabled: false
+    NationMenuCustomItem1Enabled: false
+    NationMenuCustomItem2Enabled: false
+    NationMenuCustomItem3Enabled: false
+    NationMenuCustomItem4Enabled: false
+    NationMenuCustomItem5Enabled: false
+    ResidentMenuCustomItem1Enabled: false
+    ResidentMenuCustomItem2Enabled: false
+    ResidentMenuCustomItem3Enabled: false
+    ResidentMenuCustomItem4Enabled: false
+    ResidentMenuCustomItem5Enabled: false
+    TownyWorldMenuCustomItem1Enabled: false
+    TownyWorldMenuCustomItem2Enabled: false
+    TownyWorldMenuCustomItem3Enabled: false
+    TownyWorldMenuCustomItem4Enabled: false
+    TownyWorldMenuCustomItem5Enabled: false
+    Main-Menu-Name: '&cTownyGUI'
+    Main-Menu-Chest-Size: 27
+    Main-Menu-CustomItem1-Icon: COAL
+    Main-Menu-CustomItem1-Chest-Slot: 1
+    Main-Menu-CustomItem1-Icon-Name: '&6Custom Item 1'
+    Main-Menu-CustomItem1-Command: say hello this is a test 1
+    Main-Menu-CustomItem1-Lore: true
+    Main-Menu-CustomItem1-Lore-Text:
+    - '&bPerforms command'
+    Main-Menu-CustomItem2-Icon: COAL
+    Main-Menu-CustomItem2-Chest-Slot: 3
+    Main-Menu-CustomItem2-Icon-Name: '&6Custom Item 2'
+    Main-Menu-CustomItem2-Command: say hello this is a test 2
+    Main-Menu-CustomItem2-Lore: true
+    Main-Menu-CustomItem2-Lore-Text:
+    - '&bPerforms command'
+    Main-Menu-CustomItem3-Icon: COAL
+    Main-Menu-CustomItem3-Chest-Slot: 5
+    Main-Menu-CustomItem3-Icon-Name: '&6Custom Item 3'
+    Main-Menu-CustomItem3-Command: say hello this is a test 3
+    Main-Menu-CustomItem3-Lore: true
+    Main-Menu-CustomItem3-Lore-Text:
+    - '&bPerforms command'
+    Main-Menu-CustomItem4-Icon: COAL
+    Main-Menu-CustomItem4-Chest-Slot: 5
+    Main-Menu-CustomItem4-Icon-Name: '&6Custom Item 4'
+    Main-Menu-CustomItem4-Command: say hello this is a test 4
+    Main-Menu-CustomItem4-Lore: true
+    Main-Menu-CustomItem4-Lore-Text:
+    - '&bPerforms command'
+    Main-Menu-CustomItem5-Icon: COAL
+    Main-Menu-CustomItem5-Chest-Slot: 5
+    Main-Menu-CustomItem5-Icon-Name: '&6Custom Item 5'
+    Main-Menu-CustomItem5-Command: say hello this is a test 5
+    Main-Menu-CustomItem5-Lore: true
+    Main-Menu-CustomItem5-Lore-Text:
+    - '&bPerforms command'
+    Main-Menu-Towny-Icon: JUNGLE_SAPLING
+    Main-Menu-Towny-Chest-Slot: 0
+    Main-Menu-Towny-Icon-Name: '&6Towny Menu'
+    Main-Menu-Towny-Lore: true
+    Main-Menu-Towny-Lore-Text:
+    - '&bAçar /towny Menu.'
+    Main-Menu-Town-Icon: GRASS_BLOCK
+    Main-Menu-Town-Chest-Slot: 2
+    Main-Menu-Town-Icon-Name: '&6Kasaba Menu'
+    Main-Menu-Town-Lore: true
+    Main-Menu-Town-Lore-Text:
+    - '&bAçar /town Menu.'
+    Main-Menu-Plot-Icon: OAK_SIGN
+    Main-Menu-Plot-Chest-Slot: 4
+    Main-Menu-Plot-Icon-Name: '&6Arsa Menu'
+    Main-Menu-Plot-Lore: true
+    Main-Menu-Plot-Lore-Text:
+    - '&bAçar /plot Menu.'
+    Main-Menu-Resident-Icon: WRITABLE_BOOK
+    Main-Menu-Resident-Chest-Slot: 6
+    Main-Menu-Resident-Icon-Name: '&6Sakin Menu'
+    Main-Menu-Resident-Lore: true
+    Main-Menu-Resident-Lore-Text:
+    - '&bAçar /res | /resident Menu.'
+    Main-Menu-Nation-Icon: GOLD_BLOCK
+    Main-Menu-Nation-Chest-Slot: 8
+    Main-Menu-Nation-Icon-Name: '&6Ulus Menu'
+    Main-Menu-Nation-Lore: true
+    Main-Menu-Nation-Lore-Text:
+    - '&bAçar /nation Menu.'
+    Main-Menu-TownyWorld-Icon: NETHERRACK
+    Main-Menu-TownyWorld-Chest-Slot: 22
+    Main-Menu-TownyWorld-Icon-Name: '&6TownyWorld Menu'
+    Main-Menu-TownyWorld-Lore: true
+    Main-Menu-TownyWorld-Lore-Text:
+    - '&bAçar /townyworld Menu.'
+    Main-Menu-Exit-Icon: REDSTONE_LAMP
+    Main-Menu-Exit-Chest-Slot: 26
+    Main-Menu-Exit-Icon-Name: '&cKapat'
+    Main-Menu-Exit-Lore: true
+    Main-Menu-Exit-Lore-Text:
+    - '&bMenüyü Kapatır!'
+    Town-Menu-Name: '&cKasaba Menu'
+    Town-Menu-Chest-Size: 54
+    Town-Menu-Spawn-Icon: ENDER_PEARL
+    Town-Menu-Spawn-Chest-Slot: 0
+    Town-Menu-Spawn-Icon-Name: '&6Spawn'
+    Town-Menu-Spawn-Command: towny:town spawn
+    Town-Menu-Spawn-Lore: true
+    Town-Menu-Spawn-Lore-Text:
+    - '&bTıklayarak kasaba merkezine ışınlan!'
+    Town-Menu-SetJail-Icon: IRON_BARS
+    Town-Menu-SetJail-Chest-Slot: 6
+    Town-Menu-SetJail-Icon-Name: '&6Set Jail'
+    Town-Menu-SetJail-Command: towny:town set jail
+    Town-Menu-SetJail-Lore: true
+    Town-Menu-SetJail-Lore-Text:
+    - '&bHapis bölgesinin doğma noktasını'
+    - '&büzerinde bulunduğun konum olarak ayarlar.'
+    Town-Menu-SetSpawn-Icon: GREEN_BED
+    Town-Menu-SetSpawn-Chest-Slot: 7
+    Town-Menu-SetSpawn-Icon-Name: '&6Set Spawn'
+    Town-Menu-SetSpawn-Command: towny:town set spawn
+    Town-Menu-SetSpawn-Lore: true
+    Town-Menu-SetSpawn-Lore-Text:
+    - '&bKasabanın doğma noktasını'
+    - '&büzerinde bulunduğun konum olarak ayarlar.'
+    Town-Menu-SetHomeBlock-Icon: GRASS_BLOCK
+    Town-Menu-SetHomeBlock-Chest-Slot: 8
+    Town-Menu-SetHomeBlock-Icon-Name: '&6Set Home Block'
+    Town-Menu-SetHomeBlock-Command: towny:town set homeblock
+    Town-Menu-SetHomeBlock-Lore: true
+    Town-Menu-SetHomeBlock-Lore-Text:
+    - '&bKasaba merkezini üzerinde bulunduğun arsa olarak ayarlar.'
+    Town-Menu-Claim-Icon: DIAMOND_BLOCK
+    Town-Menu-Claim-Chest-Slot: 9
+    Town-Menu-Claim-Icon-Name: '&6Claim'
+    Town-Menu-Claim-Lore: true
+    Town-Menu-Claim-Lore-Text:
+    - '&bTıklayarak arsa sahiplenme komutlarına eriş'
+    Town-Menu-SetOutpost-Icon: OAK_FENCE
+    Town-Menu-SetOutpost-Chest-Slot: 16
+    Town-Menu-SetOutpost-Icon-Name: '&6Set Outpost'
+    Town-Menu-SetOutpost-Command: towny:town set outpost
+    Town-Menu-SetOutpost-Lore: true
+    Town-Menu-SetOutpost-Lore-Text:
+    - '&bKasaban için bir karakol edin.'
+    Town-Menu-List-Icon: BOOK
+    Town-Menu-List-Chest-Slot: 20
+    Town-Menu-List-Icon-Name: '&6List'
+    Town-Menu-List-Command: towny:town list
+    Town-Menu-List-Lore: true
+    Town-Menu-List-Lore-Text:
+    - '&bBütün kasabaları listeler!'
+    Town-Menu-Leave-Icon: DARK_OAK_DOOR
+    Town-Menu-Leave-Chest-Slot: 26
+    Town-Menu-Leave-Icon-Name: '&6Leave'
+    Town-Menu-Leave-Lore: true
+    Town-Menu-Leave-Lore-Text:
+    - '&bKasabandan ayrıl.'
+    Town-Menu-Online-Icon: WRITABLE_BOOK
+    Town-Menu-Online-Chest-Slot: 17
+    Town-Menu-Online-Icon-Name: '&6Online'
+    Town-Menu-Online-Command: towny:town online
+    Town-Menu-Online-Lore: true
+    Town-Menu-Online-Lore-Text:
+    - '&bKasabandaki çevrimiçi oyuncuları gösterir.'
+    Town-Menu-New-Icon: REDSTONE_TORCH
+    Town-Menu-New-Chest-Slot: 51
+    Town-Menu-New-Icon-Name: '&6New'
+    Town-Menu-New-Lore: true
+    Town-Menu-New-Lore-Text:
+    - '&bYeni bir kasaba oluşturur.'
+    Town-Menu-Kick-Icon: STICK
+    Town-Menu-Kick-Chest-Slot: 4
+    Town-Menu-Kick-Icon-Name: '&6Kick'
+    Town-Menu-Kick-Lore: true
+    Town-Menu-Kick-Lore-Text:
+    - '&bKasabadan hedef sakini atar.'
+    Town-Menu-Add-Icon: PLAYER_HEAD
+    Town-Menu-Add-Chest-Slot: 2
+    Town-Menu-Add-Icon-Name: '&6Add'
+    Town-Menu-Add-Lore: true
+    Town-Menu-Add-Lore-Text:
+    - '&bKasabaya hedef oyuncuyu davet eder.'
+    Town-Menu-Join-Icon: BLAZE_POWDER
+    Town-Menu-Join-Chest-Slot: 50
+    Town-Menu-Join-Icon-Name: '&6Join'
+    Town-Menu-Join-Lore: true
+    Town-Menu-Join-Lore-Text:
+    - '&bKasaba davetini kabul eder.'
+    Town-Menu-ToggleExplosion-Icon: TNT
+    Town-Menu-ToggleExplosion-Chest-Slot: 48
+    Town-Menu-ToggleExplosion-Icon-Name: '&6Toggle Explosion'
+    Town-Menu-ToggleExplosion-Command: towny:town Toggle Explosion
+    Town-Menu-ToggleExplosion-Lore: true
+    Town-Menu-ToggleExplosion-Lore-Text:
+    - '&bKasabanda patlamaları AÇIK/KAPALI duruma getirir!'
+    Town-Menu-ToggleFire-Icon: FLINT_AND_STEEL
+    Town-Menu-ToggleFire-Chest-Slot: 47
+    Town-Menu-ToggleFire-Icon-Name: '&6Toggle Fire'
+    Town-Menu-ToggleFire-Command: towny:town Toggle fire
+    Town-Menu-ToggleFire-Lore: true
+    Town-Menu-ToggleFire-Lore-Text:
+    - '&bKasabandaki ateş yakılmasını AÇIK/KAPALI duruma getirir!'
+    Town-Menu-ToggleMobs-Icon: CREEPER_HEAD
+    Town-Menu-ToggleMobs-Chest-Slot: 46
+    Town-Menu-ToggleMobs-Icon-Name: '&6Toggle Mobs'
+    Town-Menu-ToggleMobs-Command: towny:town Toggle mobs
+    Town-Menu-ToggleMobs-Lore: true
+    Town-Menu-ToggleMobs-Lore-Text:
+    - '&bKasabanda mob doğmasını AÇIK/KAPALI duruma getirir!'
+    Town-Menu-ToggleOpen-Icon: NETHER_STAR
+    Town-Menu-ToggleOpen-Chest-Slot: 45
+    Town-Menu-ToggleOpen-Icon-Name: '&6Toggle Open'
+    Town-Menu-ToggleOpen-Command: towny:town Toggle open
+    Town-Menu-ToggleOpen-Lore: true
+    Town-Menu-ToggleOpen-Lore-Text:
+    - '&bKasabana herkesin girebilmesini AÇIK/KAPALI duruma getirir!'
+    Town-Menu-ToggleTaxPercent-Icon: EMERALD
+    Town-Menu-ToggleTaxPercent-Chest-Slot: 36
+    Town-Menu-ToggleTaxPercent-Icon-Name: '&6Toggle Tax Percent'
+    Town-Menu-ToggleTaxPercent-Command: towny:town Toggle taxpercent
+    Town-Menu-ToggleTaxPercent-Lore: true
+    Town-Menu-ToggleTaxPercent-Lore-Text:
+    - '&bKasaba vergilerinin yüzdelik ya da belirtilen miktar olarak alınmasını AÇIK/KAPALI
+      eder!'
+    Town-Menu-PvP-Icon: DIAMOND_SWORD
+    Town-Menu-PvP-Chest-Slot: 37
+    Town-Menu-PvP-Icon-Name: '&6Toggle PvP'
+    Town-Menu-PvP-Command: towny:town Toggle pvp
+    Town-Menu-PvP-Lore: true
+    Town-Menu-PvP-Lore-Text:
+    - '&bKasabada PVP''yi AÇIK/KAPALI duruma getirir!'
+    Town-Menu-ToggleJail-Icon: IRON_DOOR
+    Town-Menu-ToggleJail-Chest-Slot: 39
+    Town-Menu-ToggleJail-Icon-Name: '&6Toggle Jail'
+    Town-Menu-ToggleJail-Lore: true
+    Town-Menu-ToggleJail-Lore-Text:
+    - '&bKasabandaki bir sakini hedef hücreye atar.'
+    Town-Menu-Public-Icon: OAK_FENCE_GATE
+    Town-Menu-Public-Chest-Slot: 38
+    Town-Menu-Public-Icon-Name: '&6Toggle Public'
+    Town-Menu-Public-Command: towny:town Toggle public
+    Town-Menu-Public-Lore: true
+    Town-Menu-Public-Lore-Text:
+    - '&bKasaba merkezine herkesin seyahat edebileceğini AÇIK/KAPALI duruma getirir!'
+    Town-Menu-Back-Icon: ANVIL
+    Town-Menu-Back-Chest-Slot: 53
+    Town-Menu-Back-Icon-Name: '&cGeri'
+    Town-Menu-Back-Lore: true
+    Town-Menu-Back-Lore-Text:
+    - '&bAna Menuye geri dön'
+    Town-Menu-RankList-Icon: ENCHANTING_TABLE
+    Town-Menu-RankList-Chest-Slot: 18
+    Town-Menu-RankList-Icon-Name: '&6Rank List'
+    Town-Menu-RankList-Command: towny:town ranklist
+    Town-Menu-RankList-Lore: true
+    Town-Menu-RankList-Lore-Text:
+    - '&bSakinleri ve rütbelerini listeler.'
+    Town-Menu-ResList-Icon: CRAFTING_TABLE
+    Town-Menu-ResList-Chest-Slot: 24
+    Town-Menu-ResList-Icon-Name: '&6Res List'
+    Town-Menu-ResList-Command: towny:town reslist
+    Town-Menu-ResList-Lore: true
+    Town-Menu-ResList-Lore-Text:
+    - '&bKasabadaki bütün sakinleri listeler.'
+    Town-Menu-Rank-Icon: GOLDEN_HELMET
+    Town-Menu-Rank-Chest-Slot: 27
+    Town-Menu-Rank-Icon-Name: '&6Rank'
+    Town-Menu-Rank-Lore: true
+    Town-Menu-Rank-Lore-Text:
+    - '&bKasabadaki rütbeleri ayarlamanızı sağlar.'
+    Town-Menu-Deposit-Icon: GOLD_INGOT
+    Town-Menu-Deposit-Chest-Slot: 43
+    Town-Menu-Deposit-Icon-Name: '&6Deposit'
+    Town-Menu-Deposit-Lore: true
+    Town-Menu-Deposit-Lore-Text:
+    - '&bAltınlarınızı Kasaba bankasına yatırmanızı sağlar.'
+    Town-Menu-TTT-Icon: STICKY_PISTON
+    Town-Menu-TTT-Chest-Slot: 32
+    Town-Menu-TTT-Icon-Name: '&6/t'
+    Town-Menu-TTT-Lore: true
+    Town-Menu-TTT-Lore-Text:
+    - '&bKasabanız hakkındaki bilgileri gösterir.'
+    Town-Menu-TownHere-Icon: MAP
+    Town-Menu-TownHere-Chest-Slot: 22
+    Town-Menu-TownHere-Icon-Name: '&6Town Here'
+    Town-Menu-TownHere-Command: towny:town here
+    Town-Menu-TownHere-Lore: true
+    Town-Menu-TownHere-Lore-Text:
+    - '&bBulunduğunuz arsadaki kasabanın bilgilerini gösterir.'
+    Town-Menu-CustomItem1-Icon: COAL
+    Town-Menu-CustomItem1-Chest-Slot: 1
+    Town-Menu-CustomItem1-Icon-Name: '&6Custom Item 1'
+    Town-Menu-CustomItem1-Command: say hello this is a test 1
+    Town-Menu-CustomItem1-Lore: true
+    Town-Menu-CustomItem1-Lore-Text:
+    - '&bPerforms command'
+    Town-Menu-CustomItem2-Icon: COAL
+    Town-Menu-CustomItem2-Chest-Slot: 1
+    Town-Menu-CustomItem2-Icon-Name: '&6Custom Item 2'
+    Town-Menu-CustomItem2-Command: say hello this is a test 2
+    Town-Menu-CustomItem2-Lore: true
+    Town-Menu-CustomItem2-Lore-Text:
+    - '&bPerforms command'
+    Town-Menu-CustomItem3-Icon: COAL
+    Town-Menu-CustomItem3-Chest-Slot: 1
+    Town-Menu-CustomItem3-Icon-Name: '&6Custom Item 3'
+    Town-Menu-CustomItem3-Command: say hello this is a test 3
+    Town-Menu-CustomItem3-Lore: true
+    Town-Menu-CustomItem3-Lore-Text:
+    - '&bPerforms command'
+    Town-Menu-CustomItem4-Icon: COAL
+    Town-Menu-CustomItem4-Chest-Slot: 1
+    Town-Menu-CustomItem4-Icon-Name: '&6Custom Item 4'
+    Town-Menu-CustomItem4-Command: say hello this is a test 4
+    Town-Menu-CustomItem4-Lore: true
+    Town-Menu-CustomItem4-Lore-Text:
+    - '&bPerforms command'
+    Town-Menu-CustomItem5-Icon: COAL
+    Town-Menu-CustomItem5-Chest-Slot: 1
+    Town-Menu-CustomItem5-Icon-Name: '&6Custom Item 5'
+    Town-Menu-CustomItem5-Command: say hello this is a test 5
+    Town-Menu-CustomItem5-Lore: true
+    Town-Menu-CustomItem5-Lore-Text:
+    - '&bPerforms command'
+    Town-Leave-Menu-Name: '&2Kasabandan ayrılıyorsun - Emin misin?'
+    Town-Leave-Menu-Chest-Size: 9
+    Town-Leave-Menu-Confirm-Icon: EMERALD_BLOCK
+    Town-Leave-Menu-Confirm-Chest-Slot: 6
+    Town-Leave-Menu-Confirm-Icon-Name: '&aKabul Et'
+    Town-Leave-Menu-Confirm-Command: towny:town leave
+    Town-Leave-Menu-Deny-Icon: REDSTONE_BLOCK
+    Town-Leave-Menu-Deny-Chest-Slot: 2
+    Town-Leave-Menu-Deny-Icon-Name: '&cReddet'
+    Plot-Menu-Name: '&cArsa Menu'
+    Plot-Menu-Chest-Size: 36
+    Plot-Menu-Claim-Icon: PACKED_ICE
+    Plot-Menu-Claim-Chest-Slot: 1
+    Plot-Menu-Claim-Icon-Name: '&6Claim'
+    Plot-Menu-Claim-Command: towny:plot claim
+    Plot-Menu-Claim-Lore: true
+    Plot-Menu-Claim-Lore-Text:
+    - '&bÜstünde bulunduğunuz arsayı sahiplenir.'
+    Plot-Menu-UnClaim-Icon: HOPPER
+    Plot-Menu-UnClaim-Chest-Slot: 3
+    Plot-Menu-UnClaim-Icon-Name: '&6UnClaim'
+    Plot-Menu-UnClaim-Command: towny:plot unclaim
+    Plot-Menu-UnClaim-Lore: true
+    Plot-Menu-UnClaim-Lore-Text:
+    - '&bÜstünde bulunduğun arsayı toprakların arasından çıkarır.'
+    Plot-Menu-Permission-Icon: MAGMA_CREAM
+    Plot-Menu-Permission-Chest-Slot: 5
+    Plot-Menu-Permission-Icon-Name: '&6Permission'
+    Plot-Menu-Permission-Lore: true
+    Plot-Menu-Permission-Lore-Text:
+    - '&bÜstünde bulunduğun arsanın yetkilendirmelerini gösterir.'
+    Plot-Menu-ToggleExplosion-Icon: TNT
+    Plot-Menu-ToggleExplosion-Chest-Slot: 18
+    Plot-Menu-ToggleExplosion-Icon-Name: '&6Toggle Explosion'
+    Plot-Menu-ToggleExplosion-Command: towny:plot toggle explosion
+    Plot-Menu-ToggleExplosion-Lore: true
+    Plot-Menu-ToggleExplosion-Lore-Text:
+    - '&bÜstünde bulunduğun arsada patlamalarını AÇIK/KAPALI duruma getirir!'
+    Plot-Menu-ToggleMobs-Icon: CREEPER_HEAD
+    Plot-Menu-ToggleMobs-Chest-Slot: 27
+    Plot-Menu-ToggleMobs-Icon-Name: '&6Toggle Mobs'
+    Plot-Menu-ToggleMobs-Command: towny:plot toggle mobs
+    Plot-Menu-ToggleMobs-Lore: true
+    Plot-Menu-ToggleMobs-Lore-Text:
+    - '&bÜstünde bulunduğun arsada mob doğmasını AÇIK/KAPALI duruma getirir!'
+    Plot-Menu-ToggleFire-Icon: FLINT_AND_STEEL
+    Plot-Menu-ToggleFire-Chest-Slot: 19
+    Plot-Menu-ToggleFire-Icon-Name: '&6Toggle Fire'
+    Plot-Menu-ToggleFire-Command: towny:plot toggle fire
+    Plot-Menu-ToggleFire-Lore: true
+    Plot-Menu-ToggleFire-Lore-Text:
+    - '&bÜstünde bulunduğun arsada ateş yakılmasını AÇIK/KAPALI duruma getirir!'
+    Plot-Menu-TogglePvP-Icon: DIAMOND_SWORD
+    Plot-Menu-TogglePvP-Chest-Slot: 28
+    Plot-Menu-TogglePvP-Icon-Name: '&6Toggle PvP'
+    Plot-Menu-TogglePvP-Command: towny:plot toggle pvp
+    Plot-Menu-TogglePvP-Lore: true
+    Plot-Menu-TogglePvP-Lore-Text:
+    - '&bÜstünde bulunduğun arsada PVP''yi AÇIK/KAPALI duruma getirir!'
+    Plot-Menu-Set-Icon: SHEARS
+    Plot-Menu-Set-Chest-Slot: 7
+    Plot-Menu-Set-Icon-Name: '&6Set'
+    Plot-Menu-Set-Lore: true
+    Plot-Menu-Set-Lore-Text:
+    - '&bArsa ayarları Menusü'
+    Plot-Menu-Back-Icon: ANVIL
+    Plot-Menu-Back-Chest-Slot: 35
+    Plot-Menu-Back-Icon-Name: '&cGeri'
+    Plot-Menu-Back-Lore: true
+    Plot-Menu-Back-Lore-Text:
+    - '&bAna Menuye dön!'
+    Plot-Menu-CustomItem1-Icon: COAL
+    Plot-Menu-CustomItem1-Chest-Slot: 1
+    Plot-Menu-CustomItem1-Icon-Name: '&6Custom Item 1'
+    Plot-Menu-CustomItem1-Command: say hello this is a test 1
+    Plot-Menu-CustomItem1-Lore: true
+    Plot-Menu-CustomItem1-Lore-Text:
+    - '&bPerforms command'
+    Plot-Menu-CustomItem2-Icon: COAL
+    Plot-Menu-CustomItem2-Chest-Slot: 1
+    Plot-Menu-CustomItem2-Icon-Name: '&6Custom Item 2'
+    Plot-Menu-CustomItem2-Command: say hello this is a test 2
+    Plot-Menu-CustomItem2-Lore: true
+    Plot-Menu-CustomItem2-Lore-Text:
+    - '&bPerforms command'
+    Plot-Menu-CustomItem3-Icon: COAL
+    Plot-Menu-CustomItem3-Chest-Slot: 1
+    Plot-Menu-CustomItem3-Icon-Name: '&6Custom Item 3'
+    Plot-Menu-CustomItem3-Command: say hello this is a test 3
+    Plot-Menu-CustomItem3-Lore: true
+    Plot-Menu-CustomItem3-Lore-Text:
+    - '&bPerforms command'
+    Plot-Menu-CustomItem4-Icon: COAL
+    Plot-Menu-CustomItem4-Chest-Slot: 1
+    Plot-Menu-CustomItem4-Icon-Name: '&6Custom Item 4'
+    Plot-Menu-CustomItem4-Command: say hello this is a test 4
+    Plot-Menu-CustomItem4-Lore: true
+    Plot-Menu-CustomItem4-Lore-Text:
+    - '&bPerforms command'
+    Plot-Menu-CustomItem5-Icon: COAL
+    Plot-Menu-CustomItem5-Chest-Slot: 1
+    Plot-Menu-CustomItem5-Icon-Name: '&6Custom Item 5'
+    Plot-Menu-CustomItem5-Command: say hello this is a test 5
+    Plot-Menu-CustomItem5-Lore: true
+    Plot-Menu-CustomItem5-Lore-Text:
+    - '&bPerforms command'
+    TownDeposit-Menu-Name: '&cTown Deposit Menu'
+    TownDeposit-Menu-Chest-Size: 45
+    TownDeposit-Menu-Deposit_1-Icon: GOLD_NUGGET
+    TownDeposit-Menu-Deposit_1-Chest-Slot: 0
+    TownDeposit-Menu-Deposit_1-Icon-Name: '&6Depola 1⛃'
+    TownDeposit-Menu-Deposit_1-Command: towny:town deposit 1
+    TownDeposit-Menu-Deposit_1-Lore: true
+    TownDeposit-Menu-Deposit_1-Lore-Text:
+    - '&bKasaba bankasına 1⛃ depola'
+    TownDeposit-Menu-Deposit_5-Icon: GOLD_NUGGET
+    TownDeposit-Menu-Deposit_5-Chest-Slot: 2
+    TownDeposit-Menu-Deposit_5-Icon-Name: '&6Depola 5⛃'
+    TownDeposit-Menu-Deposit_5-Command: towny:town deposit 5
+    TownDeposit-Menu-Deposit_5-Lore: true
+    TownDeposit-Menu-Deposit_5-Lore-Text:
+    - '&bKasaba bankasına 5⛃ depola'
+    TownDeposit-Menu-Deposit_10-Icon: GOLD_NUGGET
+    TownDeposit-Menu-Deposit_10-Chest-Slot: 4
+    TownDeposit-Menu-Deposit_10-Icon-Name: '&6Depola 10⛃'
+    TownDeposit-Menu-Deposit_10-Command: towny:town deposit 10
+    TownDeposit-Menu-Deposit_10-Lore: true
+    TownDeposit-Menu-Deposit_10-Lore-Text:
+    - '&bKasaba bankasına 10⛃ depola'
+    TownDeposit-Menu-Deposit_25-Icon: GOLD_NUGGET
+    TownDeposit-Menu-Deposit_25-Chest-Slot: 6
+    TownDeposit-Menu-Deposit_25-Icon-Name: '&6Depola 25⛃'
+    TownDeposit-Menu-Deposit_25-Command: towny:town deposit 25
+    TownDeposit-Menu-Deposit_25-Lore: true
+    TownDeposit-Menu-Deposit_25-Lore-Text:
+    - '&bKasaba bankasına 25⛃ depola'
+    TownDeposit-Menu-Deposit_50-Icon: GOLD_NUGGET
+    TownDeposit-Menu-Deposit_50-Chest-Slot: 8
+    TownDeposit-Menu-Deposit_50-Icon-Name: '&6Depola 50⛃'
+    TownDeposit-Menu-Deposit_50-Command: towny:town deposit 50
+    TownDeposit-Menu-Deposit_50-Lore: true
+    TownDeposit-Menu-Deposit_50-Lore-Text:
+    - '&bKasaba bankasına 50⛃ depola'
+    TownDeposit-Menu-Deposit_100-Icon: GOLD_INGOT
+    TownDeposit-Menu-Deposit_100-Chest-Slot: 18
+    TownDeposit-Menu-Deposit_100-Icon-Name: '&6Depola 100⛃'
+    TownDeposit-Menu-Deposit_100-Command: towny:town deposit 100
+    TownDeposit-Menu-Deposit_100-Lore: true
+    TownDeposit-Menu-Deposit_100-Lore-Text:
+    - '&bKasaba bankasına 100⛃ depola'
+    TownDeposit-Menu-Deposit_250-Icon: GOLD_INGOT
+    TownDeposit-Menu-Deposit_250-Chest-Slot: 20
+    TownDeposit-Menu-Deposit_250-Icon-Name: '&6Depola 250⛃'
+    TownDeposit-Menu-Deposit_250-Command: towny:town deposit 250
+    TownDeposit-Menu-Deposit_250-Lore: true
+    TownDeposit-Menu-Deposit_250-Lore-Text:
+    - '&bKasaba bankasına 250⛃ depola'
+    TownDeposit-Menu-Deposit_500-Icon: GOLD_INGOT
+    TownDeposit-Menu-Deposit_500-Chest-Slot: 22
+    TownDeposit-Menu-Deposit_500-Icon-Name: '&6Depola 500⛃'
+    TownDeposit-Menu-Deposit_500-Command: towny:town deposit 500
+    TownDeposit-Menu-Deposit_500-Lore: true
+    TownDeposit-Menu-Deposit_500-Lore-Text:
+    - '&bKasaba bankasına 500⛃ depola'
+    TownDeposit-Menu-Deposit_1000-Icon: GOLD_INGOT
+    TownDeposit-Menu-Deposit_1000-Chest-Slot: 24
+    TownDeposit-Menu-Deposit_1000-Icon-Name: '&6Depola 1000⛃'
+    TownDeposit-Menu-Deposit_1000-Command: towny:town deposit 1000
+    TownDeposit-Menu-Deposit_1000-Lore: true
+    TownDeposit-Menu-Deposit_1000-Lore-Text:
+    - '&bKasaba bankasına 1000⛃ depola'
+    TownDeposit-Menu-Deposit_2500-Icon: GOLD_INGOT
+    TownDeposit-Menu-Deposit_2500-Chest-Slot: 26
+    TownDeposit-Menu-Deposit_2500-Icon-Name: '&6Depola 2500⛃'
+    TownDeposit-Menu-Deposit_2500-Command: towny:town deposit 2500
+    TownDeposit-Menu-Deposit_2500-Lore: true
+    TownDeposit-Menu-Deposit_2500-Lore-Text:
+    - '&bKasaba bankasına 2500⛃ depola'
+    TownDeposit-Menu-Deposit_5000-Icon: GOLD_BLOCK
+    TownDeposit-Menu-Deposit_5000-Chest-Slot: 36
+    TownDeposit-Menu-Deposit_5000-Icon-Name: '&6Depola 5000⛃'
+    TownDeposit-Menu-Deposit_5000-Command: towny:town deposit 5000
+    TownDeposit-Menu-Deposit_5000-Lore: true
+    TownDeposit-Menu-Deposit_5000-Lore-Text:
+    - '&bKasaba bankasına 5000⛃ depola'
+    TownDeposit-Menu-Deposit_10000-Icon: GOLD_BLOCK
+    TownDeposit-Menu-Deposit_10000-Chest-Slot: 38
+    TownDeposit-Menu-Deposit_10000-Icon-Name: '&6Depola 10000⛃'
+    TownDeposit-Menu-Deposit_10000-Command: towny:town deposit 10000
+    TownDeposit-Menu-Deposit_10000-Lore: true
+    TownDeposit-Menu-Deposit_10000-Lore-Text:
+    - '&bKasaba bankasına 10000⛃ depola'
+    TownDeposit-Menu-Deposit_15000-Icon: GOLD_BLOCK
+    TownDeposit-Menu-Deposit_15000-Chest-Slot: 40
+    TownDeposit-Menu-Deposit_15000-Icon-Name: '&6Depola 15000⛃'
+    TownDeposit-Menu-Deposit_15000-Command: towny:town deposit 15000
+    TownDeposit-Menu-Deposit_15000-Lore: true
+    TownDeposit-Menu-Deposit_15000-Lore-Text:
+    - '&bKasaba bankasına 15000⛃ depola'
+    TownDeposit-Menu-Deposit_20000-Icon: GOLD_BLOCK
+    TownDeposit-Menu-Deposit_20000-Chest-Slot: 42
+    TownDeposit-Menu-Deposit_20000-Icon-Name: '&6Depola 20000⛃'
+    TownDeposit-Menu-Deposit_20000-Command: towny:town deposit 20000
+    TownDeposit-Menu-Deposit_20000-Lore: true
+    TownDeposit-Menu-Deposit_20000-Lore-Text:
+    - '&bKasaba bankasına 20000⛃ depola'
+    TownDeposit-Menu-DepositHelp-Icon: BOOK
+    TownDeposit-Menu-DepositHelp-Chest-Slot: 43
+    TownDeposit-Menu-DepositHelp-Icon-Name: '&6Depolama Yardım'
+    TownDeposit-Menu-DepositHelp-Lore: true
+    TownDeposit-Menu-DepositHelp-Lore-Text:
+    - '&bTıklayarak nasıl kasabaya para depolayabileceğini öğrenebilirsin.'
+    TownDeposit-Menu-Back-Icon: ANVIL
+    TownDeposit-Menu-Back-Chest-Slot: 44
+    TownDeposit-Menu-Back-Icon-Name: '&cGeri'
+    TownDeposit-Menu-Back-Lore: true
+    TownDeposit-Menu-Back-Lore-Text:
+    - '&bKasaba Menusüne geri dön'
+    PlotSet-Menu-Name: '&cPlot Set Menu'
+    PlotSet-Menu-Chest-Size: 27
+    PlotSet-Menu-Reset-Icon: GRASS_BLOCK
+    PlotSet-Menu-Reset-Chest-Slot: 0
+    PlotSet-Menu-Reset-Icon-Name: '&6Plot Set Reset'
+    PlotSet-Menu-Reset-Command: towny:plot set reset
+    PlotSet-Menu-Reset-Lore: true
+    PlotSet-Menu-Reset-Lore-Text:
+    - '&bAyarlanmış bir arsayı'
+    - '&bnormal arsaya dönüştürür.'
+    PlotSet-Menu-Shop-Icon: EMERALD
+    PlotSet-Menu-Shop-Chest-Slot: 2
+    PlotSet-Menu-Shop-Icon-Name: '&6Plot Set Shop'
+    PlotSet-Menu-Shop-Command: towny:plot set shop
+    PlotSet-Menu-Shop-Lore: true
+    PlotSet-Menu-Shop-Lore-Text:
+    - '&bArsayı pazar olarak ayarlar!'
+    PlotSet-Menu-Embassy-Icon: NETHER_STAR
+    PlotSet-Menu-Embassy-Chest-Slot: 4
+    PlotSet-Menu-Embassy-Icon-Name: '&6Plot Set Embassy'
+    PlotSet-Menu-Embassy-Command: towny:plot set embassy
+    PlotSet-Menu-Embassy-Lore: true
+    PlotSet-Menu-Embassy-Lore-Text:
+    - '&bArsayı elçilik olarak ayarlar!'
+    PlotSet-Menu-Arena-Icon: DIAMOND_SWORD
+    PlotSet-Menu-Arena-Chest-Slot: 6
+    PlotSet-Menu-Arena-Icon-Name: '&6Plot Set Arena'
+    PlotSet-Menu-Arena-Command: towny:plot set Arena
+    PlotSet-Menu-Arena-Lore: true
+    PlotSet-Menu-Arena-Lore-Text:
+    - '&bArsayı arena olarak ayarlar!'
+    PlotSet-Menu-Wilds-Icon: MOSSY_COBBLESTONE
+    PlotSet-Menu-Wilds-Chest-Slot: 8
+    PlotSet-Menu-Wilds-Icon-Name: '&6Plot Set Wilds'
+    PlotSet-Menu-Wilds-Command: towny:plot set wilds
+    PlotSet-Menu-Wilds-Lore: true
+    PlotSet-Menu-Wilds-Lore-Text:
+    - '&bArsayı wilds olarak ayarlar!'
+    PlotSet-Menu-Jail-Icon: IRON_BARS
+    PlotSet-Menu-Jail-Chest-Slot: 18
+    PlotSet-Menu-Jail-Icon-Name: '&6Plot Set Jail'
+    PlotSet-Menu-Jail-Command: towny:plot set jail
+    PlotSet-Menu-Jail-Lore: true
+    PlotSet-Menu-Jail-Lore-Text:
+    - '&bArsayı hapishane olarak ayarlar!'
+    PlotSet-Menu-Farm-Icon: DIRT
+    PlotSet-Menu-Farm-Chest-Slot: 20
+    PlotSet-Menu-Farm-Icon-Name: '&6Plot Set Farm'
+    PlotSet-Menu-Farm-Command: towny:plot set farm
+    PlotSet-Menu-Farm-Lore: true
+    PlotSet-Menu-Farm-Lore-Text:
+    - '&bArsayı çiftlik olarak ayarlar!'
+    PlotSet-Menu-Inn-Icon: GREEN_BED
+    PlotSet-Menu-Inn-Chest-Slot: 22
+    PlotSet-Menu-Inn-Icon-Name: '&6Plot Set Inn'
+    PlotSet-Menu-Inn-Command: towny:plot set inn
+    PlotSet-Menu-Inn-Lore: true
+    PlotSet-Menu-Inn-Lore-Text:
+    - '&bArsayı han olarak ayarlar.!'
+    PlotSet-Menu-Back-Icon: ANVIL
+    PlotSet-Menu-Back-Chest-Slot: 26
+    PlotSet-Menu-Back-Icon-Name: '&cGeri'
+    PlotSet-Menu-Back-Lore: true
+    PlotSet-Menu-Back-Lore-Text:
+    - '&bBack to Plot Menu!'
+    Resident-Menu-Name: '&cSakin Menu'
+    Resident-Menu-Chest-Size: 27
+    Resident-Menu-Player-Icon: DIAMOND_HELMET
+    Resident-Menu-Player-Chest-Slot: 0
+    Resident-Menu-Player-Icon-Name: '&6/res <PLAYER>'
+    Resident-Menu-Player-Lore: true
+    Resident-Menu-Player-Lore-Text:
+    - '&bHedef oyuncunun bilgilerini gösterir!'
+    Resident-Menu-Friend-Icon: EXPERIENCE_BOTTLE
+    Resident-Menu-Friend-Chest-Slot: 2
+    Resident-Menu-Friend-Icon-Name: '&6Friend'
+    Resident-Menu-Friend-Lore: true
+    Resident-Menu-Friend-Lore-Text:
+    - '&bArkadaş ekle ya da kaldır!'
+    Resident-Menu-List-Icon: BOOK
+    Resident-Menu-List-Chest-Slot: 4
+    Resident-Menu-List-Icon-Name: '&6List'
+    Resident-Menu-List-Command: towny:resident list
+    Resident-Menu-List-Lore: true
+    Resident-Menu-List-Lore-Text:
+    - '&bKasabadaki sakinlerin listesi.'
+    Resident-Menu-Toggle-Icon: LEVER
+    Resident-Menu-Toggle-Chest-Slot: 6
+    Resident-Menu-Toggle-Icon-Name: '&6Toggle'
+    Resident-Menu-Toggle-Lore: true
+    Resident-Menu-Toggle-Lore-Text:
+    - '&bEkstra komutlar için tıklayın.'
+    Resident-Menu-Jail-Icon: IRON_BARS
+    Resident-Menu-Jail-Chest-Slot: 8
+    Resident-Menu-Jail-Icon-Name: '&6Jail'
+    Resident-Menu-Jail-Lore: true
+    Resident-Menu-Jail-Lore-Text:
+    - '&bEkstra komutlar için tıklayın.'
+    Resident-Menu-SetPerm-Icon: LAVA_BUCKET
+    Resident-Menu-SetPerm-Chest-Slot: 20
+    Resident-Menu-SetPerm-Icon-Name: '&6Set Perm'
+    Resident-Menu-SetPerm-Lore: true
+    Resident-Menu-SetPerm-Lore-Text:
+    - '&bEkstra komutlar için tıklayın.'
+    Resident-Menu-Tax-Icon: EMERALD
+    Resident-Menu-Tax-Chest-Slot: 24
+    Resident-Menu-Tax-Icon-Name: '&6Tax'
+    Resident-Menu-Tax-Command: towny:resident tax
+    Resident-Menu-Tax-Lore: true
+    Resident-Menu-Tax-Lore-Text:
+    - '&bSakinlerin ne kadar vergi ödediğini görüntüle.'
+    Resident-Menu-Back-Icon: ANVIL
+    Resident-Menu-Back-Chest-Slot: 26
+    Resident-Menu-Back-Icon-Name: '&cExit'
+    Resident-Menu-Back-Lore: true
+    Resident-Menu-Back-Lore-Text:
+    - '&bAna Menuye geri dön!'
+    Resident-Menu-CustomItem1-Icon: COAL
+    Resident-Menu-CustomItem1-Chest-Slot: 1
+    Resident-Menu-CustomItem1-Icon-Name: '&6Custom Item 1'
+    Resident-Menu-CustomItem1-Command: say hello this is a test 1
+    Resident-Menu-CustomItem1-Lore: true
+    Resident-Menu-CustomItem1-Lore-Text:
+    - '&bPerforms command'
+    Resident-Menu-CustomItem2-Icon: COAL
+    Resident-Menu-CustomItem2-Chest-Slot: 1
+    Resident-Menu-CustomItem2-Icon-Name: '&6Custom Item 2'
+    Resident-Menu-CustomItem2-Command: say hello this is a test 2
+    Resident-Menu-CustomItem2-Lore: true
+    Resident-Menu-CustomItem2-Lore-Text:
+    - '&bPerforms command'
+    Resident-Menu-CustomItem3-Icon: COAL
+    Resident-Menu-CustomItem3-Chest-Slot: 1
+    Resident-Menu-CustomItem3-Icon-Name: '&6Custom Item 3'
+    Resident-Menu-CustomItem3-Command: say hello this is a test 3
+    Resident-Menu-CustomItem3-Lore: true
+    Resident-Menu-CustomItem3-Lore-Text:
+    - '&bPerforms command'
+    Resident-Menu-CustomItem4-Icon: COAL
+    Resident-Menu-CustomItem4-Chest-Slot: 1
+    Resident-Menu-CustomItem4-Icon-Name: '&6Custom Item 4'
+    Resident-Menu-CustomItem4-Command: say hello this is a test 4
+    Resident-Menu-CustomItem4-Lore: true
+    Resident-Menu-CustomItem4-Lore-Text:
+    - '&bPerforms command'
+    Resident-Menu-CustomItem5-Icon: COAL
+    Resident-Menu-CustomItem5-Chest-Slot: 1
+    Resident-Menu-CustomItem5-Icon-Name: '&6Custom Item 5'
+    Resident-Menu-CustomItem5-Command: say hello this is a test 5
+    Resident-Menu-CustomItem5-Lore: true
+    Resident-Menu-CustomItem5-Lore-Text:
+    - '&bPerforms command'
+    Nation-Menu-Name: '&cUlus Menu'
+    Nation-Menu-Chest-Size: 45
+    Nation-Menu-List-Icon: BOOK
+    Nation-Menu-List-Chest-Slot: 0
+    Nation-Menu-List-Icon-Name: '&6List'
+    Nation-Menu-List-Command: towny:nation list
+    Nation-Menu-List-Lore: true
+    Nation-Menu-List-Lore-Text:
+    - '&bUlusları listele.'
+    Nation-Menu-Online-Icon: MAP
+    Nation-Menu-Online-Chest-Slot: 2
+    Nation-Menu-Online-Icon-Name: '&6Online'
+    Nation-Menu-Online-Command: towny:nation online
+    Nation-Menu-Online-Lore: true
+    Nation-Menu-Online-Lore-Text:
+    - '&bUlusundaki çevrimiçi oyuncuları görüntüle.'
+    Nation-Menu-Nation-Icon: DIAMOND
+    Nation-Menu-Nation-Chest-Slot: 4
+    Nation-Menu-Nation-Icon-Name: '&6Nation'
+    Nation-Menu-Nation-Lore: true
+    Nation-Menu-Nation-Lore-Text:
+    - '&bHedef ulusun bilgilerini görüntüler.'
+    Nation-Menu-Leave-Icon: DARK_OAK_DOOR
+    Nation-Menu-Leave-Chest-Slot: 6
+    Nation-Menu-Leave-Icon-Name: '&6Leave'
+    Nation-Menu-Leave-Command: towny:nation leave
+    Nation-Menu-Leave-Lore: true
+    Nation-Menu-Leave-Lore-Text:
+    - '&bBelediye Başkanı komutu uluslardan ayrılmaya yarar.'
+    Nation-Menu-Deposit-Icon: GOLD_INGOT
+    Nation-Menu-Deposit-Chest-Slot: 8
+    Nation-Menu-Deposit-Icon-Name: '&6Deposit'
+    Nation-Menu-Deposit-Lore: true
+    Nation-Menu-Deposit-Lore-Text:
+    - '&bUlus bankasına altın yatırır.'
+    Nation-Menu-New-Icon: GRASS_BLOCK
+    Nation-Menu-New-Chest-Slot: 18
+    Nation-Menu-New-Icon-Name: '&6New'
+    Nation-Menu-New-Lore: true
+    Nation-Menu-New-Lore-Text:
+    - '&bYeni bir ulusun nasıl yaratılacağı konusunda talimatlar alın.'
+    Nation-Menu-Add-Icon: PLAYER_HEAD
+    Nation-Menu-Add-Chest-Slot: 20
+    Nation-Menu-Add-Icon-Name: '&6Add'
+    Nation-Menu-Add-Lore: true
+    Nation-Menu-Add-Lore-Text:
+    - '&bUlusunuza nasıl yeni bir kasaba ekleyebileceğiniz'
+    - '&bhakkında talimatlar alın'
+    Nation-Menu-Kick-Icon: STICK
+    Nation-Menu-Kick-Chest-Slot: 22
+    Nation-Menu-Kick-Icon-Name: '&6Kick'
+    Nation-Menu-Kick-Lore: true
+    Nation-Menu-Kick-Lore-Text:
+    - '&bUlusunuzdaki bir kasabayı nasıl'
+    - '&batacağınız konusunda talimatlar alın'
+    Nation-Menu-Ally-Icon: QUARTZ
+    Nation-Menu-Ally-Chest-Slot: 24
+    Nation-Menu-Ally-Icon-Name: '&6Ally'
+    Nation-Menu-Ally-Lore: true
+    Nation-Menu-Ally-Lore-Text:
+    - '&bBaşka bir ulus ile nasıl dost olabileceğiniz'
+    - '&bhakkında talimatlar alın.'
+    Nation-Menu-Enemy-Icon: NETHERRACK
+    Nation-Menu-Enemy-Chest-Slot: 26
+    Nation-Menu-Enemy-Icon-Name: '&6Enemy'
+    Nation-Menu-Enemy-Lore: true
+    Nation-Menu-Enemy-Lore-Text:
+    - '&bBaşka bir ulus ile nasıl düşman listenize ekleyebileceğiniz'
+    - '&bhakkında talimarlar alın.'
+    Nation-Menu-Rank-Icon: GOLDEN_HELMET
+    Nation-Menu-Rank-Chest-Slot: 38
+    Nation-Menu-Rank-Icon-Name: '&6Rank'
+    Nation-Menu-Rank-Lore: true
+    Nation-Menu-Rank-Lore-Text:
+    - '&bUlustaki bir sakinin nasıl rütbelendireleceği'
+    - '&bhakkında talimatlar alın.'
+    Nation-Menu-Set-Icon: SHEARS
+    Nation-Menu-Set-Chest-Slot: 40
+    Nation-Menu-Set-Icon-Name: '&6Set'
+    Nation-Menu-Set-Lore: true
+    Nation-Menu-Set-Lore-Text:
+    - '&bUlusunuzun özelliklerini ayarlayın.'
+    Nation-Menu-Toggle-Icon: COMPASS
+    Nation-Menu-Toggle-Chest-Slot: 42
+    Nation-Menu-Toggle-Icon-Name: '&6Toggle'
+    Nation-Menu-Toggle-Command: towny:nation toggle neutral
+    Nation-Menu-Toggle-Lore: true
+    Nation-Menu-Toggle-Lore-Text:
+    - '&bDünya savaşından geri çekilmek için'
+    - '&bgünlük para ÖDE/ÖDEME'
+    Nation-Menu-Back-Icon: ANVIL
+    Nation-Menu-Back-Chest-Slot: 44
+    Nation-Menu-Back-Icon-Name: '&cGeri'
+    Nation-Menu-Back-Lore: true
+    Nation-Menu-Back-Lore-Text:
+    - '&bAna Menuye geri dön!'
+    Nation-Menu-CustomItem1-Icon: COAL
+    Nation-Menu-CustomItem1-Chest-Slot: 1
+    Nation-Menu-CustomItem1-Icon-Name: '&6Custom Item 1'
+    Nation-Menu-CustomItem1-Command: say hello this is a test 1
+    Nation-Menu-CustomItem1-Lore: true
+    Nation-Menu-CustomItem1-Lore-Text:
+    - '&bPerforms command'
+    Nation-Menu-CustomItem2-Icon: COAL
+    Nation-Menu-CustomItem2-Chest-Slot: 1
+    Nation-Menu-CustomItem2-Icon-Name: '&6Custom Item 2'
+    Nation-Menu-CustomItem2-Command: say hello this is a test 2
+    Nation-Menu-CustomItem2-Lore: true
+    Nation-Menu-CustomItem2-Lore-Text:
+    - '&bPerforms command'
+    Nation-Menu-CustomItem3-Icon: COAL
+    Nation-Menu-CustomItem3-Chest-Slot: 1
+    Nation-Menu-CustomItem3-Icon-Name: '&6Custom Item 3'
+    Nation-Menu-CustomItem3-Command: say hello this is a test 3
+    Nation-Menu-CustomItem3-Lore: true
+    Nation-Menu-CustomItem3-Lore-Text:
+    - '&bPerforms command'
+    Nation-Menu-CustomItem4-Icon: COAL
+    Nation-Menu-CustomItem4-Chest-Slot: 1
+    Nation-Menu-CustomItem4-Icon-Name: '&6Custom Item 4'
+    Nation-Menu-CustomItem4-Command: say hello this is a test 4
+    Nation-Menu-CustomItem4-Lore: true
+    Nation-Menu-CustomItem4-Lore-Text:
+    - '&bPerforms command'
+    Nation-Menu-CustomItem5-Icon: COAL
+    Nation-Menu-CustomItem5-Chest-Slot: 1
+    Nation-Menu-CustomItem5-Icon-Name: '&6Custom Item 5'
+    Nation-Menu-CustomItem5-Command: say hello this is a test 5
+    Nation-Menu-CustomItem5-Lore: true
+    Nation-Menu-CustomItem5-Lore-Text:
+    - '&bPerforms command'
+    NationDeposit-Menu-Name: '&cNation Deposit Menu'
+    NationDeposit-Menu-Chest-Size: 45
+    NationDeposit-Menu-Deposit_1-Icon: GOLD_NUGGET
+    NationDeposit-Menu-Deposit_1-Chest-Slot: 0
+    NationDeposit-Menu-Deposit_1-Icon-Name: '&6Depola 1⛃'
+    NationDeposit-Menu-Deposit_1-Command: towny:nation deposit 1
+    NationDeposit-Menu-Deposit_1-Lore: true
+    NationDeposit-Menu-Deposit_1-Lore-Text:
+    - '&bDeposit $1 into nation bank'
+    NationDeposit-Menu-Deposit_5-Icon: GOLD_NUGGET
+    NationDeposit-Menu-Deposit_5-Chest-Slot: 2
+    NationDeposit-Menu-Deposit_5-Icon-Name: '&6Depola 5⛃'
+    NationDeposit-Menu-Deposit_5-Command: towny:nation deposit 5
+    NationDeposit-Menu-Deposit_5-Lore: true
+    NationDeposit-Menu-Deposit_5-Lore-Text:
+    - '&bDeposit $5 into nation bank'
+    NationDeposit-Menu-Deposit_10-Icon: GOLD_NUGGET
+    NationDeposit-Menu-Deposit_10-Chest-Slot: 4
+    NationDeposit-Menu-Deposit_10-Icon-Name: '&6Depola 10⛃'
+    NationDeposit-Menu-Deposit_10-Command: towny:nation deposit 10
+    NationDeposit-Menu-Deposit_10-Lore: true
+    NationDeposit-Menu-Deposit_10-Lore-Text:
+    - '&bDeposit $10 into nation bank'
+    NationDeposit-Menu-Deposit_25-Icon: GOLD_NUGGET
+    NationDeposit-Menu-Deposit_25-Chest-Slot: 6
+    NationDeposit-Menu-Deposit_25-Icon-Name: '&6Depola 25⛃'
+    NationDeposit-Menu-Deposit_25-Command: towny:nation deposit 25
+    NationDeposit-Menu-Deposit_25-Lore: true
+    NationDeposit-Menu-Deposit_25-Lore-Text:
+    - '&bDeposit $25 into nation bank'
+    NationDeposit-Menu-Deposit_50-Icon: GOLD_NUGGET
+    NationDeposit-Menu-Deposit_50-Chest-Slot: 8
+    NationDeposit-Menu-Deposit_50-Icon-Name: '&6Depola 50⛃'
+    NationDeposit-Menu-Deposit_50-Command: towny:nation deposit 50
+    NationDeposit-Menu-Deposit_50-Lore: true
+    NationDeposit-Menu-Deposit_50-Lore-Text:
+    - '&bDeposit $50 into nation bank'
+    NationDeposit-Menu-Deposit_100-Icon: GOLD_INGOT
+    NationDeposit-Menu-Deposit_100-Chest-Slot: 18
+    NationDeposit-Menu-Deposit_100-Icon-Name: '&6Depola 100⛃'
+    NationDeposit-Menu-Deposit_100-Command: towny:nation deposit 100
+    NationDeposit-Menu-Deposit_100-Lore: true
+    NationDeposit-Menu-Deposit_100-Lore-Text:
+    - '&bDeposit $100 into nation bank'
+    NationDeposit-Menu-Deposit_250-Icon: GOLD_INGOT
+    NationDeposit-Menu-Deposit_250-Chest-Slot: 20
+    NationDeposit-Menu-Deposit_250-Icon-Name: '&6Depola 250⛃'
+    NationDeposit-Menu-Deposit_250-Command: towny:nation deposit 250
+    NationDeposit-Menu-Deposit_250-Lore: true
+    NationDeposit-Menu-Deposit_250-Lore-Text:
+    - '&bDeposit $250 into nation bank'
+    NationDeposit-Menu-Deposit_500-Icon: GOLD_INGOT
+    NationDeposit-Menu-Deposit_500-Chest-Slot: 22
+    NationDeposit-Menu-Deposit_500-Icon-Name: '&6Depola 500⛃'
+    NationDeposit-Menu-Deposit_500-Command: towny:nation deposit 500
+    NationDeposit-Menu-Deposit_500-Lore: true
+    NationDeposit-Menu-Deposit_500-Lore-Text:
+    - '&bDeposit $500 into nation bank'
+    NationDeposit-Menu-Deposit_1000-Icon: GOLD_INGOT
+    NationDeposit-Menu-Deposit_1000-Chest-Slot: 24
+    NationDeposit-Menu-Deposit_1000-Icon-Name: '&6Depola 1000⛃'
+    NationDeposit-Menu-Deposit_1000-Command: towny:nation deposit 1000
+    NationDeposit-Menu-Deposit_1000-Lore: true
+    NationDeposit-Menu-Deposit_1000-Lore-Text:
+    - '&bDeposit $1000 into nation bank'
+    NationDeposit-Menu-Deposit_2500-Icon: GOLD_INGOT
+    NationDeposit-Menu-Deposit_2500-Chest-Slot: 26
+    NationDeposit-Menu-Deposit_2500-Icon-Name: '&6Depola 2500⛃'
+    NationDeposit-Menu-Deposit_2500-Command: towny:nation deposit 2500
+    NationDeposit-Menu-Deposit_2500-Lore: true
+    NationDeposit-Menu-Deposit_2500-Lore-Text:
+    - '&bDeposit $2500 into nation bank'
+    NationDeposit-Menu-Deposit_5000-Icon: GOLD_BLOCK
+    NationDeposit-Menu-Deposit_5000-Chest-Slot: 36
+    NationDeposit-Menu-Deposit_5000-Icon-Name: '&6Depola 5000⛃'
+    NationDeposit-Menu-Deposit_5000-Command: towny:nation deposit 5000
+    NationDeposit-Menu-Deposit_5000-Lore: true
+    NationDeposit-Menu-Deposit_5000-Lore-Text:
+    - '&bDeposit $5000 into nation bank'
+    NationDeposit-Menu-Deposit_10000-Icon: GOLD_BLOCK
+    NationDeposit-Menu-Deposit_10000-Chest-Slot: 38
+    NationDeposit-Menu-Deposit_10000-Icon-Name: '&6Depola 10000⛃'
+    NationDeposit-Menu-Deposit_10000-Command: towny:nation deposit 10000
+    NationDeposit-Menu-Deposit_10000-Lore: true
+    NationDeposit-Menu-Deposit_10000-Lore-Text:
+    - '&bDeposit $10000 into nation bank'
+    NationDeposit-Menu-Deposit_15000-Icon: GOLD_BLOCK
+    NationDeposit-Menu-Deposit_15000-Chest-Slot: 40
+    NationDeposit-Menu-Deposit_15000-Icon-Name: '&6Depola 15000⛃'
+    NationDeposit-Menu-Deposit_15000-Command: towny:nation deposit 15000
+    NationDeposit-Menu-Deposit_15000-Lore: true
+    NationDeposit-Menu-Deposit_15000-Lore-Text:
+    - '&bDeposit $15000 into nation bank'
+    NationDeposit-Menu-Deposit_20000-Icon: GOLD_BLOCK
+    NationDeposit-Menu-Deposit_20000-Chest-Slot: 42
+    NationDeposit-Menu-Deposit_20000-Icon-Name: '&6Depola 20000⛃'
+    NationDeposit-Menu-Deposit_20000-Command: towny:nation deposit 20000
+    NationDeposit-Menu-Deposit_20000-Lore: true
+    NationDeposit-Menu-Deposit_20000-Lore-Text:
+    - '&bDeposit $20000 into nation bank'
+    NationDeposit-Menu-DepositHelp-Icon: BOOK
+    NationDeposit-Menu-DepositHelp-Chest-Slot: 43
+    NationDeposit-Menu-DepositHelp-Icon-Name: '&6Deposit Help'
+    NationDeposit-Menu-DepositHelp-Lore: true
+    NationDeposit-Menu-DepositHelp-Lore-Text:
+    - '&bNasıl para yatıracağınıza dair talimatları almak için tıklayın'
+    NationDeposit-Menu-Back-Icon: ANVIL
+    NationDeposit-Menu-Back-Chest-Slot: 44
+    NationDeposit-Menu-Back-Icon-Name: '&cGeri'
+    NationDeposit-Menu-Back-Lore: true
+    NationDeposit-Menu-Back-Lore-Text:
+    - '&bUlus Menusüne geri dön!'
+    Towny-Menu-Name: '&cTowny Menu'
+    Towny-Menu-Chest-Size: 27
+    Towny-Menu-Map-Icon: MAP
+    Towny-Menu-Map-Chest-Slot: 0
+    Towny-Menu-Map-Icon-Name: '&6Towny Map'
+    Towny-Menu-Map-Command: towny:towny map
+    Towny-Menu-Map-Lore: true
+    Towny-Menu-Map-Lore-Text:
+    - '&bKasaba haritasını gösterir.'
+    Towny-Menu-Prices-Icon: EMERALD
+    Towny-Menu-Prices-Chest-Slot: 2
+    Towny-Menu-Prices-Icon-Name: '&6Towny Prices'
+    Towny-Menu-Prices-Command: towny:towny prices
+    Towny-Menu-Prices-Lore: true
+    Towny-Menu-Prices-Lore-Text:
+    - '&bTowny eklentisi ile ilgili'
+    - '&bvergileri / maliyetleri gösterir.'
+    Towny-Menu-Time-Icon: CLOCK
+    Towny-Menu-Time-Chest-Slot: 4
+    Towny-Menu-Time-Icon-Name: '&6Towny Time'
+    Towny-Menu-Time-Command: towny:towny time
+    Towny-Menu-Time-Lore: true
+    Towny-Menu-Time-Lore-Text:
+    - '&bBir sonraki yeni güne kadar olan zamanı gösterir.'
+    - '&b(vergi/bakım tahsilatı.)'
+    Towny-Menu-Top-Icon: GOLDEN_APPLE
+    Towny-Menu-Top-Chest-Slot: 6
+    Towny-Menu-Top-Icon-Name: '&6Towny Top'
+    Towny-Menu-Top-Lore: true
+    Towny-Menu-Top-Lore-Text:
+    - '&bEn iyi sakinleri ve arazi sahiplerini gösterir.'
+    Towny-Menu-Universe-Icon: ENDER_CHEST
+    Towny-Menu-Universe-Chest-Slot: 8
+    Towny-Menu-Universe-Icon-Name: '&6Towny Universe'
+    Towny-Menu-Universe-Command: towny:towny universe
+    Towny-Menu-Universe-Lore: true
+    Towny-Menu-Universe-Lore-Text:
+    - '&bTowny eklentisinin bilgilerini gösterir.'
+    Towny-Menu-Version-Icon: EXPERIENCE_BOTTLE
+    Towny-Menu-Version-Chest-Slot: 21
+    Towny-Menu-Version-Icon-Name: '&6Towny Version'
+    Towny-Menu-Version-Command: towny:towny version
+    Towny-Menu-Version-Lore: true
+    Towny-Menu-Version-Lore-Text:
+    - '&bTowny sürümünü gösterir.'
+    Towny-Menu-War-Icon: DIAMOND_SWORD
+    Towny-Menu-War-Chest-Slot: 23
+    Towny-Menu-War-Icon-Name: '&6Towny War'
+    Towny-Menu-War-Lore: true
+    Towny-Menu-War-Lore-Text:
+    - '&bSavaş istatistiklerini / puanlarını gösterir.'
+    Towny-Menu-Back-Icon: ANVIL
+    Towny-Menu-Back-Chest-Slot: 26
+    Towny-Menu-Back-Icon-Name: '&cGeri'
+    Towny-Menu-Back-Lore: true
+    Towny-Menu-Back-Lore-Text:
+    - '&bAna Menuye geri dön!'
+    Towny-Menu-CustomItem1-Icon: COAL
+    Towny-Menu-CustomItem1-Chest-Slot: 1
+    Towny-Menu-CustomItem1-Icon-Name: '&6Custom Item 1'
+    Towny-Menu-CustomItem1-Command: say hello this is a test 1
+    Towny-Menu-CustomItem1-Lore: true
+    Towny-Menu-CustomItem1-Lore-Text:
+    - '&bPerforms command'
+    Towny-Menu-CustomItem2-Icon: COAL
+    Towny-Menu-CustomItem2-Chest-Slot: 1
+    Towny-Menu-CustomItem2-Icon-Name: '&6Custom Item 2'
+    Towny-Menu-CustomItem2-Command: say hello this is a test 2
+    Towny-Menu-CustomItem2-Lore: true
+    Towny-Menu-CustomItem2-Lore-Text:
+    - '&bPerforms command'
+    Towny-Menu-CustomItem3-Icon: COAL
+    Towny-Menu-CustomItem3-Chest-Slot: 1
+    Towny-Menu-CustomItem3-Icon-Name: '&6Custom Item 3'
+    Towny-Menu-CustomItem3-Command: say hello this is a test 3
+    Towny-Menu-CustomItem3-Lore: true
+    Towny-Menu-CustomItem3-Lore-Text:
+    - '&bPerforms command'
+    Towny-Menu-CustomItem4-Icon: COAL
+    Towny-Menu-CustomItem4-Chest-Slot: 1
+    Towny-Menu-CustomItem4-Icon-Name: '&6Custom Item 4'
+    Towny-Menu-CustomItem4-Command: say hello this is a test 4
+    Towny-Menu-CustomItem4-Lore: true
+    Towny-Menu-CustomItem4-Lore-Text:
+    - '&bPerforms command'
+    Towny-Menu-CustomItem5-Icon: COAL
+    Towny-Menu-CustomItem5-Chest-Slot: 1
+    Towny-Menu-CustomItem5-Icon-Name: '&6Custom Item 5'
+    Towny-Menu-CustomItem5-Command: say hello this is a test 5
+    Towny-Menu-CustomItem5-Lore: true
+    Towny-Menu-CustomItem5-Lore-Text:
+    - '&bPerforms command'
+    TownyWorld-Menu-Name: '&cTowny World Menu'
+    TownyWorld-Menu-Chest-Size: 9
+    TownyWorld-Menu-List-Icon: MAP
+    TownyWorld-Menu-List-Chest-Slot: 0
+    TownyWorld-Menu-List-Icon-Name: '&6TownyWorld List'
+    TownyWorld-Menu-List-Command: towny:townyworld list
+    TownyWorld-Menu-List-Lore: true
+    TownyWorld-Menu-List-Lore-Text:
+    - '&bDünyaları listeler.'
+    TownyWorld-Menu-World-Icon: GRASS_BLOCK
+    TownyWorld-Menu-World-Chest-Slot: 2
+    TownyWorld-Menu-World-Icon-Name: '&6TownyWorld <WORLD>'
+    TownyWorld-Menu-World-Lore: true
+    TownyWorld-Menu-World-Lore-Text:
+    - '&bDünya için ayarları göster.'
+    TownyWorld-Menu-Toggle-Icon: END_PORTAL_FRAME
+    TownyWorld-Menu-Toggle-Chest-Slot: 4
+    TownyWorld-Menu-Toggle-Icon-Name: '&6TownyWorld Toggle'
+    TownyWorld-Menu-Toggle-Lore: true
+    TownyWorld-Menu-Toggle-Lore-Text:
+    - '&bToggle.'
+    TownyWorld-Menu-Set-Icon: WOODEN_AXE
+    TownyWorld-Menu-Set-Chest-Slot: 6
+    TownyWorld-Menu-Set-Icon-Name: '&6TownyWorld Set'
+    TownyWorld-Menu-Set-Lore: true
+    TownyWorld-Menu-Set-Lore-Text:
+    - '&bDünya özelliklerini ayarlar.'
+    TownyWorld-Menu-Back-Icon: ANVIL
+    TownyWorld-Menu-Back-Chest-Slot: 8
+    TownyWorld-Menu-Back-Icon-Name: '&cGeri'
+    TownyWorld-Menu-Back-Lore: true
+    TownyWorld-Menu-Back-Lore-Text:
+    - '&bAna Menuye geri dön!'
+    TownyWorld-Menu-CustomItem1-Icon: COAL
+    TownyWorld-Menu-CustomItem1-Chest-Slot: 1
+    TownyWorld-Menu-CustomItem1-Icon-Name: '&6Custom Item 1'
+    TownyWorld-Menu-CustomItem1-Command: say hello this is a test 1
+    TownyWorld-Menu-CustomItem1-Lore: true
+    TownyWorld-Menu-CustomItem1-Lore-Text:
+    - '&bPerforms command'
+    TownyWorld-Menu-CustomItem2-Icon: COAL
+    TownyWorld-Menu-CustomItem2-Chest-Slot: 1
+    TownyWorld-Menu-CustomItem2-Icon-Name: '&6Custom Item 2'
+    TownyWorld-Menu-CustomItem2-Command: say hello this is a test 2
+    TownyWorld-Menu-CustomItem2-Lore: true
+    TownyWorld-Menu-CustomItem2-Lore-Text:
+    - '&bPerforms command'
+    TownyWorld-Menu-CustomItem3-Icon: COAL
+    TownyWorld-Menu-CustomItem3-Chest-Slot: 1
+    TownyWorld-Menu-CustomItem3-Icon-Name: '&6Custom Item 3'
+    TownyWorld-Menu-CustomItem3-Command: say hello this is a test 3
+    TownyWorld-Menu-CustomItem3-Lore: true
+    TownyWorld-Menu-CustomItem3-Lore-Text:
+    - '&bPerforms command'
+    TownyWorld-Menu-CustomItem4-Icon: COAL
+    TownyWorld-Menu-CustomItem4-Chest-Slot: 1
+    TownyWorld-Menu-CustomItem4-Icon-Name: '&6Custom Item 4'
+    TownyWorld-Menu-CustomItem4-Command: say hello this is a test 4
+    TownyWorld-Menu-CustomItem4-Lore: true
+    TownyWorld-Menu-CustomItem4-Lore-Text:
+    - '&bPerforms command'
+    TownyWorld-Menu-CustomItem5-Icon: COAL
+    TownyWorld-Menu-CustomItem5-Chest-Slot: 1
+    TownyWorld-Menu-CustomItem5-Icon-Name: '&6Custom Item 5'
+    TownyWorld-Menu-CustomItem5-Command: say hello this is a test 5
+    TownyWorld-Menu-CustomItem5-Lore: true
+    TownyWorld-Menu-CustomItem5-Lore-Text:
+    - '&bPerforms command'
